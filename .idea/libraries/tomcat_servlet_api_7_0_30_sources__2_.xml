@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tomcat-servlet-api-7.0.30-sources (2)">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/myweb/web/WEB-INF/lib/tomcat-servlet-api-7.0.30-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

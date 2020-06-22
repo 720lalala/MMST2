@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="database.conf.xsd">
+    <driver>com.mysql.cj.jdbc.Driver</driver><!--JDBC连接Mysql8-->
+    <url>jdbc:mysql://localhost:3306/clothingsales?useUnicode=true&amp;characterEncoding=UTF-8&amp;serverTimezone=UTC</url>
+    <!--在xml配置文件中配置数据库utl时，要使用&的转义字符也就是&amp;-->
+    <user>root</user>
+    <password>123456</password>
+</data>

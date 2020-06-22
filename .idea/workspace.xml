@@ -1,0 +1,1407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="myweb:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad787aac-0443-43a8-8e1c-66d19ff9cc3a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MCSST$ok_jsp.coverage" NAME="ok.jsp Coverage Results" MODIFIED="1544234796310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/MCSST$tanchuangTest_jsp.coverage" NAME="tanchuangTest.jsp Coverage Results" MODIFIED="1544582793559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/MCSST$create_account_jsp.coverage" NAME="create-account.jsp Coverage Results" MODIFIED="1544165456726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/MCSST$login_jsp__1_.coverage" NAME="login.jsp (1) Coverage Results" MODIFIED="1544441805538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/MCSST$findAllUser_jsp.coverage" NAME="findAllUser.jsp Coverage Results" MODIFIED="1544440690527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/MCSST$login_jsp.coverage" NAME="login.jsp Coverage Results" MODIFIED="1544232474601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/MCSST$errorlogin_html.coverage" NAME="errorlogin.html Coverage Results" MODIFIED="1544441079604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/MCSST$index_html.coverage" NAME="index.html Coverage Results" MODIFIED="1544172728790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/MCSST$register_jsp.coverage" NAME="register.jsp Coverage Results" MODIFIED="1544173587956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="fucha@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="fucha@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="fucha@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="clothingsales: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="fucha@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="clothingsales: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="stock_transfer: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="fucha@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="clothingsales: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="stock_transfer_details: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MCSST" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="returnsPolicy.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myweb/web/allCanAccept/returnsPolicy.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13948">
+              <caret line="634" column="31" lean-forward="false" selection-start-line="634" selection-start-column="31" selection-end-line="634" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="insertReturnSalesServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/insertReturnSalesServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="returnOneServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/returnOneServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="53" column="38" lean-forward="false" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="submitStockInServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/DEPOT/submitStockInServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1232">
+              <caret line="71" column="43" lean-forward="false" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="submitStockOutServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/DEPOT/submitStockOutServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1254">
+              <caret line="68" column="23" lean-forward="false" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countsumain.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myweb/web/admin/countsumain.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="413" column="54" lean-forward="false" selection-start-line="413" selection-start-column="54" selection-end-line="413" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="achievementUserPaywayServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/COUNT/achievementUserPaywayServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sumbitReturnSalesServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/sumbitReturnSalesServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1694">
+              <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SalesDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/dao/SalesDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6798">
+              <caret line="322" column="27" lean-forward="false" selection-start-line="322" selection-start-column="27" selection-end-line="322" selection-end-column="27" />
+              <folding>
+                <marker date="1586270232975" expanded="true" signature="835:902" ph="SELECT * FRO... flowsheet" />
+                <marker date="1586270232975" expanded="true" signature="1308:1379" ph="SELECT * FRO... depot" />
+                <marker date="1586270232975" expanded="true" signature="1900:2274" ph="INSERT INTO sales... " />
+                <marker date="1586270232975" expanded="true" signature="3030:3097" ph="SELECT * FRO... flowsheet" />
+                <marker date="1586270232975" expanded="true" signature="3503:3933" ph="INSERT INTO sales... " />
+                <marker date="1586270232975" expanded="true" signature="4779:4828" ph="SELECT * FRO... sales" />
+                <marker date="1586270232975" expanded="true" signature="4889:4909" ph="SELECT * FRO... sales" />
+                <marker date="1586270232975" expanded="true" signature="6433:6635" ph="SELECT s.* F... sales" />
+                <marker date="1586270232975" expanded="true" signature="6724:6869" ph="SELECT s.* F... sales" />
+                <marker date="1586270232975" expanded="true" signature="7010:7157" ph="SELECT s.* F... sales" />
+                <marker date="1586270232975" expanded="true" signature="7229:7318" ph="SELECT s.* F... sales" />
+                <marker date="1586270232975" expanded="true" signature="8764:8832" ph="SELECT s.*,f... sales" />
+                <marker date="1586270232975" expanded="true" signature="10718:10768" ph="SELECT * FRO... sales" />
+                <marker date="1586270232975" expanded="true" signature="12062:12145" ph="SELECT * FRO... sales" />
+                <marker date="1586270232975" expanded="true" signature="12342:12448" ph="UPDATE sales... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sumbitSalesServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/sumbitSalesServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2640">
+              <caret line="134" column="21" lean-forward="false" selection-start-line="134" selection-start-column="21" selection-end-line="134" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="jsf" />
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>删除</find>
+      <find>staffid</find>
+      <find>支付方式</find>
+      <find>总价格</find>
+      <find>sumprice</find>
+      <find>session.getAttribute</find>
+      <find>HelloWorld1</find>
+      <find>全部寻找</find>
+      <find>用户id</find>
+      <find>Console</find>
+      <find>form1</find>
+      <find>staffnameF</find>
+      <find>盘点时间</find>
+      <find>clothingidFF</find>
+      <find>寻找</find>
+      <find>a</find>
+      <find>a:hover</find>
+      <find>结束出库</find>
+      <find>出库</find>
+      <find>结束入库</find>
+      <find>idTemp</find>
+      <find>提交订单</find>
+      <find>select.js</find>
+      <find>clothingInsertForm</find>
+      <find>确定</find>
+      <find>light</find>
+      <find>&lt;fmt:formatNumber</find>
+      <find>员工id</find>
+      <find>fmt</find>
+      <find>table</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/myweb/web/admin/allSalesmain.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/dao/ClothingDAO.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/USER/changeIseridMessage.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/USER/modifyMyselfUserServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/USER/deleteUserServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/USER/modifyUserServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/STAFF/deleteStaffServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/STAFF/insertStaffServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/STAFF/modifyStaffServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/CLOTHING/deleteClothingServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/VIP/insertVipServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/VIP/deleteVipServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/DEPOT/modifyDepotServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/DEPOT/deleteDepotServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/dao/DepotDAO.java" />
+        <option value="$PROJECT_DIR$/myweb/web/admin/adminmain.jsp" />
+        <option value="$PROJECT_DIR$/myweb/web/allCanAccept/countDepot.jsp" />
+        <option value="$PROJECT_DIR$/myweb/web/css/style.css" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/USER/insertUserServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/DEPOT/submitStockInServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/web/allCanAccept/staffmain.jsp" />
+        <option value="$PROJECT_DIR$/myweb/web/admin/clothingmain.jsp" />
+        <option value="$PROJECT_DIR$/myweb/web/allCanAccept/depotmain.jsp" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/DEPOT/idStockInServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/dao/StockTransferDAO.java" />
+        <option value="$PROJECT_DIR$/myweb/web/allCanAccept/stockTransfer.jsp" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/DEPOT/searchStockTransferDetailServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/web/admin/stockTransferDetail.jsp" />
+        <option value="$PROJECT_DIR$/myweb/web/admin/flowsheetmain.jsp" />
+        <option value="$PROJECT_DIR$/myweb/web/admin/countsumain.jsp" />
+        <option value="$PROJECT_DIR$/myweb/web/admin/achievementUser.jsp" />
+        <option value="$PROJECT_DIR$/myweb/web/admin/achievementStaff.jsp" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/ALLSALES/SalesUseridServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/CLOTHING/modifyClothingServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/DEPOT/countOneDepotServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/DEPOT/insertDepotServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/DEPOT/outOneStockServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/DEPOT/searchDepotServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/addOrReduceSalesNumberServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/changeSalesOneServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/SalesOneServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/CLOTHING/insertClothingServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/web/allCanAccept/countpumain.jsp" />
+        <option value="$PROJECT_DIR$/myweb/web/allCanAccept/checkSalesmain.jsp" />
+        <option value="$PROJECT_DIR$/myweb/web/allCanAccept/sales.jsp" />
+        <option value="$PROJECT_DIR$/myweb/web/admin/allSalesmain.jsp" />
+        <option value="$PROJECT_DIR$/myweb/web/allCanAccept/returnsPolicy.jsp" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/sumbitReturnSalesServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/sumbitSalesServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/web/admin/clothingSalesDetail.jsp" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/returnOneServlet.java" />
+        <option value="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/DEPOT/submitStockOutServlet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-59" />
+    <option name="y" value="-16" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>ServletWithoutMappingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="false" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="作品" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="作品" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="作品" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="作品" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="作品" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="lingnan" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+            <path>
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="61db50fb:ScratchProjectViewPane$MyPsiNode" />
+            </path>
+            <path>
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="61db50fb:ScratchProjectViewPane$MyPsiNode" />
+              <item name="schema" type="61db50fb:ScratchProjectViewPane$MyPsiNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3954023" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="staffmain&#9;FILE&#9;file://F:/javaweb/2016344102期末项目/myweb/web/allCanAccept/staffmain.jsp&#10;doughnut&#9;null&#9;null&#10;AllSal&#9;PSI&#9;JAVA://cn.edu.lingnan.servlet.ALLSALES.allSalesServlet&#10;Sales&#9;FILE&#9;file://F:/Java/MCSST/myweb/src/cn/edu/lingnan/servlet/SALES/salesServlet.java&#10;checkSalesUserid&#9;null&#9;null&#10;getTime&#9;PSI&#9;JAVA://cn.edu.lingnan.dto.FlowSheetDTO#getTime&#10;setSize&#9;PSI&#9;JAVA://cn.edu.lingnan.dto.ClothingDTO#setSize&#10;end&#9;PSI&#9;JAVA://cn.edu.lingnan.util.XMLConfigParser#endElement" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\javaweb\2016344102期末项目\myweb\web\css" />
+      <recent name="F:\javaweb\2016344102期末项目\myweb\web\js" />
+      <recent name="F:\javaweb\2016344102期末项目\myweb\web\admin" />
+      <recent name="F:\javaweb\2016344102期末项目\myweb\web\WEB-INF\lib" />
+      <recent name="F:\javaweb\2016344102期末项目\myweb\src\cn\edu\lingnan\jar" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.edu.lingnan.servlet.COUNT" />
+      <recent name="cn.edu.lingnan.test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\javaweb\2016344102期末项目\myweb\web\admin" />
+      <recent name="F:\javaweb\2016344102期末项目\myweb\web\images" />
+      <recent name="F:\javaweb\2016344102期末项目\myweb\web\allCanAccept" />
+      <recent name="F:\Java\MCSST\myweb\web\WEB-INF" />
+      <recent name="F:\Java\MCSST\myweb\web\pages\samples" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.login.jsp">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.90" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="myweb:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_2016344102期末项目" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61147" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="myweb:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="login.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 7.0.90" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/login.jsp" />
+      <deployment>
+        <artifact name="myweb:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="login_jsp_2016344102期末项目_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53883" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="myweb:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.login.jsp" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Tomcat Server.login.jsp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad787aac-0443-43a8-8e1c-66d19ff9cc3a" name="Default" comment="" />
+      <created>1542684012458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542684012458</updated>
+      <workItem from="1542684017099" duration="757000" />
+      <workItem from="1542696535641" duration="4258000" />
+      <workItem from="1542767622373" duration="3932000" />
+      <workItem from="1542795827269" duration="9666000" />
+      <workItem from="1542869224219" duration="8076000" />
+      <workItem from="1542932415740" duration="6545000" />
+      <workItem from="1542975346399" duration="2608000" />
+      <workItem from="1543034989864" duration="2398000" />
+      <workItem from="1543287592807" duration="1287000" />
+      <workItem from="1543301702030" duration="13164000" />
+      <workItem from="1543412199955" duration="5932000" />
+      <workItem from="1543996873871" duration="7213000" />
+      <workItem from="1544062216028" duration="1665000" />
+      <workItem from="1544156591672" duration="17277000" />
+      <workItem from="1544179623959" duration="2800000" />
+      <workItem from="1544183388375" duration="2402000" />
+      <workItem from="1544230558977" duration="4202000" />
+      <workItem from="1544341684981" duration="283000" />
+      <workItem from="1544405610007" duration="21366000" />
+      <workItem from="1544445227687" duration="3342000" />
+      <workItem from="1544495748300" duration="480000" />
+      <workItem from="1544579977587" duration="2880000" />
+      <workItem from="1544582904682" duration="4913000" />
+      <workItem from="1544596927651" duration="8823000" />
+      <workItem from="1544752192819" duration="11723000" />
+      <workItem from="1544862612368" duration="1803000" />
+      <workItem from="1544922410350" duration="19357000" />
+      <workItem from="1544958031598" duration="5188000" />
+      <workItem from="1545010667956" duration="23322000" />
+      <workItem from="1545099022041" duration="3653000" />
+      <workItem from="1545117219659" duration="17000" />
+      <workItem from="1545283327662" duration="17912000" />
+      <workItem from="1545355710608" duration="7911000" />
+      <workItem from="1545370436815" duration="10437000" />
+      <workItem from="1545390741107" duration="5348000" />
+      <workItem from="1545453597432" duration="22205000" />
+      <workItem from="1545663360675" duration="578000" />
+      <workItem from="1545824776680" duration="55000" />
+      <workItem from="1545889187905" duration="2962000" />
+      <workItem from="1545892221684" duration="25179000" />
+      <workItem from="1545974200981" duration="26770000" />
+      <workItem from="1546011885120" duration="1157000" />
+      <workItem from="1546045500727" duration="6712000" />
+      <workItem from="1546060854345" duration="20059000" />
+      <workItem from="1546085313675" duration="30073000" />
+      <workItem from="1546140174873" duration="26346000" />
+      <workItem from="1546346429910" duration="1252000" />
+      <workItem from="1546358568259" duration="216000" />
+      <workItem from="1546407029190" duration="97000" />
+      <workItem from="1546408786851" duration="6505000" />
+      <workItem from="1546479461804" duration="4614000" />
+      <workItem from="1546501355688" duration="2614000" />
+      <workItem from="1546512978501" duration="4133000" />
+      <workItem from="1546522575100" duration="310000" />
+      <workItem from="1546522988694" duration="2372000" />
+      <workItem from="1560924783403" duration="159000" />
+      <workItem from="1582096362822" duration="2414000" />
+      <workItem from="1582114181918" duration="107000" />
+      <workItem from="1582114303982" duration="229000" />
+      <workItem from="1582114646073" duration="8273000" />
+      <workItem from="1582179506844" duration="2929000" />
+      <workItem from="1582188068977" duration="4104000" />
+      <workItem from="1582706448561" duration="19352000" />
+      <workItem from="1582792844005" duration="22793000" />
+      <workItem from="1582872639505" duration="32697000" />
+      <workItem from="1582968700152" duration="10854000" />
+      <workItem from="1584428069041" duration="18212000" />
+      <workItem from="1584642885701" duration="1888000" />
+      <workItem from="1585476607070" duration="625000" />
+      <workItem from="1585556903228" duration="2081000" />
+      <workItem from="1585664654913" duration="314000" />
+      <workItem from="1585813030158" duration="1812000" />
+      <workItem from="1586237251960" duration="30169000" />
+      <workItem from="1586321272649" duration="34105000" />
+      <workItem from="1586408926206" duration="16062000" />
+      <workItem from="1586525590256" duration="1640000" />
+      <workItem from="1586527286412" duration="4048000" />
+      <workItem from="1586915833705" duration="27538000" />
+      <workItem from="1587027608902" duration="4394000" />
+      <workItem from="1587371936484" duration="599000" />
+      <workItem from="1589176088990" duration="20217000" />
+      <workItem from="1589271565495" duration="6264000" />
+      <workItem from="1589350919549" duration="3889000" />
+      <workItem from="1589465971871" duration="674000" />
+      <workItem from="1589522646057" duration="2942000" />
+      <workItem from="1589588275418" duration="519000" />
+      <workItem from="1589592725149" duration="1929000" />
+      <workItem from="1589607749387" duration="547000" />
+      <workItem from="1589959038811" duration="150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="711678000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.49394855" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30427632" sideWeight="0.16490166" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.05756579" sideWeight="0.6770045" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28971255" sideWeight="0.46275395" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25113463" sideWeight="0.5321337" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43585527" sideWeight="0.8350983" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25037822" sideWeight="0.53724605" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.8880484" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.48789713" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30427632" sideWeight="0.16490166" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31743422" sideWeight="0.8350983" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.8880484" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.49394855" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39802632" sideWeight="0.6770045" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22617246" sideWeight="0.46786633" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25113463" sideWeight="0.5321337" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.48789713" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25037822" sideWeight="0.52532834" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/myweb/web/WEB-INF/classes/cn/edu/lingnan/test/ServletTest.class</url>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/returnOneServlet.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="290" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="this.session" custom="javax.servlet.http.HttpSession" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/FLOWSHEET/detailFlowsheetServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/FLOWSHEET/searchFlowsheetServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1139">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/addOrReduceSalesNumberServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="95" column="75" lean-forward="false" selection-start-line="95" selection-start-column="75" selection-end-line="95" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/changeSalesOneServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="68" column="67" lean-forward="false" selection-start-line="68" selection-start-column="67" selection-end-line="68" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/changeSalesStaffidServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1183">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/changeScoreServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-633">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/checkAllSalesServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/deleteReturnSalesServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/deleteSalesServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-699">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/insertAllSalesServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-699">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/returnFlowidServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-215">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/SalesOneServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="84" column="71" lean-forward="false" selection-start-line="84" selection-start-column="71" selection-end-line="84" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/salesServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-179">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/searchSalesServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-875">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/STAFF/allStaffServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/STAFF/deleteStaffServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/STAFF/insertStaffServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-836">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/STAFF/modifyStaffServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-677">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/STAFF/searchStaffServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-633">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/USER/AllUserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-91">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/USER/changeIseridMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-91">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/USER/deleteUserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/USER/insertUserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/AuthorityFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-545">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/USER/searchUserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-193">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/USER/modifyUserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/USER/modifyMyselfUserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/CharacterFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/exitServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/HelloWorld1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/VIP/AllVipServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/VIP/changeVipServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-389">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/VIP/searchVipByPhoneServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-389">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/CLOTHING/insertClothingServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/web/admin/clothingmain.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2332">
+          <caret line="106" column="24" lean-forward="false" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/web/allCanAccept/checkSalesmain.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9900">
+          <caret line="450" column="104" lean-forward="false" selection-start-line="450" selection-start-column="84" selection-end-line="450" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/web/allCanAccept/countpumain.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="348" column="48" lean-forward="false" selection-start-line="348" selection-start-column="48" selection-end-line="348" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/web/allCanAccept/sales.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11572">
+          <caret line="526" column="48" lean-forward="false" selection-start-line="526" selection-start-column="45" selection-end-line="526" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/web/admin/allSalesmain.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13442">
+          <caret line="613" column="105" lean-forward="false" selection-start-line="613" selection-start-column="105" selection-end-line="613" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/insertReturnSalesServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/web/allCanAccept/returnsPolicy.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13948">
+          <caret line="634" column="31" lean-forward="false" selection-start-line="634" selection-start-column="31" selection-end-line="634" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/returnServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/sumbitSalesServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="134" column="21" lean-forward="false" selection-start-line="134" selection-start-column="21" selection-end-line="134" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/web/admin/clothingSalesDetail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="427" column="51" lean-forward="true" selection-start-line="427" selection-start-column="51" selection-end-line="427" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/dao/SalesDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6798">
+          <caret line="322" column="27" lean-forward="false" selection-start-line="322" selection-start-column="27" selection-end-line="322" selection-end-column="27" />
+          <folding>
+            <marker date="1586270232975" expanded="true" signature="835:902" ph="SELECT * FRO... flowsheet" />
+            <marker date="1586270232975" expanded="true" signature="1308:1379" ph="SELECT * FRO... depot" />
+            <marker date="1586270232975" expanded="true" signature="1900:2274" ph="INSERT INTO sales... " />
+            <marker date="1586270232975" expanded="true" signature="3030:3097" ph="SELECT * FRO... flowsheet" />
+            <marker date="1586270232975" expanded="true" signature="3503:3933" ph="INSERT INTO sales... " />
+            <marker date="1586270232975" expanded="true" signature="4779:4828" ph="SELECT * FRO... sales" />
+            <marker date="1586270232975" expanded="true" signature="4889:4909" ph="SELECT * FRO... sales" />
+            <marker date="1586270232975" expanded="true" signature="6433:6635" ph="SELECT s.* F... sales" />
+            <marker date="1586270232975" expanded="true" signature="6724:6869" ph="SELECT s.* F... sales" />
+            <marker date="1586270232975" expanded="true" signature="7010:7157" ph="SELECT s.* F... sales" />
+            <marker date="1586270232975" expanded="true" signature="7229:7318" ph="SELECT s.* F... sales" />
+            <marker date="1586270232975" expanded="true" signature="8764:8832" ph="SELECT s.*,f... sales" />
+            <marker date="1586270232975" expanded="true" signature="10718:10768" ph="SELECT * FRO... sales" />
+            <marker date="1586270232975" expanded="true" signature="12062:12145" ph="SELECT * FRO... sales" />
+            <marker date="1586270232975" expanded="true" signature="12342:12448" ph="UPDATE sales... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/sumbitReturnSalesServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1694">
+          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/SALES/returnOneServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="53" column="38" lean-forward="false" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/DEPOT/submitStockInServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="71" column="43" lean-forward="false" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/DEPOT/submitStockOutServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="68" column="23" lean-forward="false" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/src/cn/edu/lingnan/servlet/COUNT/achievementUserPaywayServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/web/admin/countsumain.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="413" column="54" lean-forward="false" selection-start-line="413" selection-start-column="54" selection-end-line="413" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="library" />
+              <type id="javaee-facet-resources" />
+              <type id="jpa-descriptors" />
+              <type id="artifact" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>myweb:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (myweb)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>myweb</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>tomcat-servlet-api-7.0.30-sources</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3954023" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

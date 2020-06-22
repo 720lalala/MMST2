@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="myweb:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/myweb_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="myweb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="myweb" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/jar/jstl.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/myweb/src/cn/edu/lingnan/jar/standard.jar" />
+          <element id="library" level="project" name="mysql-connector-java-8.0.11" />
+          <element id="library" level="project" name="poi-3.9" />
+          <element id="library" level="project" name="poi-ooxml-3.9" />
+          <element id="library" level="project" name="taglibs-standard-compat-1.2.5" />
+          <element id="library" level="project" name="dom4j-1.6.1" />
+          <element id="library" level="project" name="poi-ooxml-schemas-3.9" />
+          <element id="library" level="project" name="taglibs-standard-jstlel-1.2.5" />
+          <element id="library" level="project" name="xmlbeans-2.3.0" />
+          <element id="library" level="project" name="poi-3.9 (2)" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
